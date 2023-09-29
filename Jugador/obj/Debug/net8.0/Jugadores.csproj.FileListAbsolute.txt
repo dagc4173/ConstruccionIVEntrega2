@@ -1,0 +1,15 @@
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\bin\Debug\net8.0\Jugadores.exe
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\bin\Debug\net8.0\Jugadores.deps.json
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\bin\Debug\net8.0\Jugadores.runtimeconfig.json
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\bin\Debug\net8.0\Jugadores.dll
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\bin\Debug\net8.0\Jugadores.pdb
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.AssemblyInfoInputs.cache
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.AssemblyInfo.cs
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.csproj.CoreCompileInputs.cache
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.sourcelink.json
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.dll
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\refint\Jugadores.dll
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.pdb
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\Jugadores.genruntimeconfig.cache
+C:\Users\dagc4\Desktop\TdeA-2023-2\SoftwareIV\Entregable2\Jugadores\obj\Debug\net8.0\ref\Jugadores.dll

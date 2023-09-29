@@ -3,14 +3,14 @@ namespace Jugador.src;
 using System;
 using System.Collections.Generic;
 
-interface IJugador
+public interface IJugador
 {
     string Nombre { get; }
     string Posicion { get; }
     int Rendimiento { get; }
 }
 
-class Jugador : IJugador
+public class Jugador : IJugador
 {
     public string Nombre { get; private set; }
     public string Posicion { get; private set; }

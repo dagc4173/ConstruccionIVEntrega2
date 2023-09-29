@@ -1,6 +1,6 @@
 namespace Jugador.src;
 
-class Equipo
+public class Equipo
 {
     private List<IJugador> jugadores;
 

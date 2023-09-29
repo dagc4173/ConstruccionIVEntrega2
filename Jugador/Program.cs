@@ -15,11 +15,9 @@ class Program
             new Jugador("Jugador6", "ADRIAN", 8)
         };
 
-        // Crear dos equipos
         Equipo equipo1 = new Equipo();
         Equipo equipo2 = new Equipo();
 
-        // Selección aleatoria de jugadores para los equipos
         Random random = new Random();
         while (jugadoresRegistrados.Count > 0)
         {
@@ -36,7 +34,6 @@ class Program
             jugadoresRegistrados.RemoveAt(index);
         }
 
-        // Determinar el ganador del partido
         int puntajeEquipo1 = equipo1.CalcularPuntajeTotal();
         int puntajeEquipo2 = equipo2.CalcularPuntajeTotal();
 

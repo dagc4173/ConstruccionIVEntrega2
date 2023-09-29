@@ -12,7 +12,9 @@ class Program
 
         int puntajePokemon1 = 0;
         int puntajePokemon2 = 0;
+
         Console.WriteLine($"\nCombate entre {pokemon1.Nombre} y {pokemon2.Nombre}");
+
         for (int i = 0; i < 3; i++)
         {
             int ataque1 = pokemon1.Atacar();
@@ -53,13 +55,13 @@ class Program
         do
         {
             Console.Write("Nombre del Pokémon: ");
-            nombre = Console.ReadLine();
+            nombre = Console.ReadLine() ?? "";
         } while (string.IsNullOrEmpty(nombre));
 
         do
         {
             Console.Write("Tipo del Pokémon: ");
-            tipo = Console.ReadLine();
+            tipo = Console.ReadLine() ?? "";
         } while (string.IsNullOrEmpty(tipo));
 
         for (int i = 0; i < 3; i++)
@@ -67,7 +69,7 @@ class Program
             do
             {
                 Console.Write($"Ataque {i + 1}. Debe estar entre 0 y 40: ");
-                string ataqueStr = Console.ReadLine();
+                string ataqueStr = Console.ReadLine() ?? "";
                 if (int.TryParse(ataqueStr, out int ataque) && ataque >= 0 && ataque <= 40)
                 {
                     ataques[i] = ataque;
@@ -83,7 +85,7 @@ class Program
         do
         {
             Console.Write("Defensa del Pokémon. Debe estar entre 10 y 35: ");
-            string defensaStr = Console.ReadLine();
+            string defensaStr = Console.ReadLine() ?? "";
             if (int.TryParse(defensaStr, out defensa) && defensa >= 10 && defensa <= 35)
             {
                 break; 

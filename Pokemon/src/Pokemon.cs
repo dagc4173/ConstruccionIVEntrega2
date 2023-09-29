@@ -11,12 +11,14 @@ public class Pokemon : PokemonBase
     {
         Random random = new Random();
         int ataqueSeleccionado = random.Next(0, Ataques.Length);
-        int puntaje = Ataques[ataqueSeleccionado] * (random.Next(0, 2)); // Multiplicar por 0 o 1
+        int puntaje = Ataques[ataqueSeleccionado] * (random.Next(0, 2));
         return puntaje;
     }
 
     public override double Defenderte()
     {
-        return Defensa * 0.5; // Multiplicar por 0.5
+        Random random = new Random();
+        double multiplicador = (random.Next(0, 2) == 0) ? 0.5 : 1.0;
+        return Defensa * multiplicador;
     }
 }

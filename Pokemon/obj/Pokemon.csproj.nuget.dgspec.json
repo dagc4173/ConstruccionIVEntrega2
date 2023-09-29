@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dagc4\\Desktop\\TdeA2023-2\\ConstruccionIV\\Entregable2\\Pokemon\\Pokemon.csproj": {}
+    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable2\\Pokemon\\Pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dagc4\\Desktop\\TdeA2023-2\\ConstruccionIV\\Entregable2\\Pokemon\\Pokemon.csproj": {
+    "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable2\\Pokemon\\Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dagc4\\Desktop\\TdeA2023-2\\ConstruccionIV\\Entregable2\\Pokemon\\Pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable2\\Pokemon\\Pokemon.csproj",
         "projectName": "Pokemon",
-        "projectPath": "C:\\Users\\dagc4\\Desktop\\TdeA2023-2\\ConstruccionIV\\Entregable2\\Pokemon\\Pokemon.csproj",
+        "projectPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable2\\Pokemon\\Pokemon.csproj",
         "packagesPath": "C:\\Users\\dagc4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dagc4\\Desktop\\TdeA2023-2\\ConstruccionIV\\Entregable2\\Pokemon\\obj\\",
+        "outputPath": "C:\\Users\\dagc4\\Desktop\\TdeA-2023-2\\SoftwareIV\\Entregable2\\Pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dagc4\\AppData\\Roaming\\NuGet\\NuGet.Config"
